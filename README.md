@@ -16,7 +16,7 @@ Eu sou um assessor financeiro e desenvolvedor apaixonado por tecnologia e invest
 - 🌐 Visite o site da empresa: [SGA Investimentos](https://www.instagram.com/sga_invest/). 📊
 
 ## Projetos Destacados
-- **[Projeto 1]** Em breve: Descrição do projeto 1.
+- 🏎️ **[iRacing Paint Manager](https://github.com/EricMacedo10/iracing-trading-paints-cleaner)**: Automação em PowerShell para limpeza e gerenciamento de arquivos de pintura do iRacing.
 - **[Projeto 2]** Em breve: Descrição do projeto 2.
 
 ---
