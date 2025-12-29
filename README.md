@@ -6,7 +6,7 @@
 
 Bem-vindo ao meu perfil do GitHub!
 
-![Imagem de um Computador](https://investnews.com.br/wp-content/uploads/2022/10/swing-trade.jpg)
+![Imagem de um Computador](./Whisk_6bf42361fa20c0285e04492e8329eecadr.jpeg)
 
 Eu sou um assessor financeiro e desenvolvedor apaixonado por tecnologia e investimentos.
 
