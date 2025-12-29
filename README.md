@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./header_sga.png" alt="SGA Investimentos Header" />
+  <img width="100%" src="./header_robot.png" alt="SGA Investimentos Header" />
 </div>
 
 # Olá, eu sou Eric Macedo!
