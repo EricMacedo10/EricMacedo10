@@ -17,7 +17,7 @@ Eu sou um assessor financeiro e desenvolvedor apaixonado por tecnologia e invest
 
 ## Projetos Destacados
 - 🏎️ **[iRacing Paint Manager](https://github.com/EricMacedo10/iracing-trading-paints-cleaner)**: Automação em PowerShell para limpeza e gerenciamento de arquivos de pintura do iRacing.
-- **[Projeto 2]** Em breve: Descrição do projeto 2.
+- 🗓️ **[Agendador Andreia](https://github.com/EricMacedo10/agendador-andreia)**: Projeto criado 100% com ajuda da inteligência artificial.
 
 ---
 *Confira meu CV anexado neste repositório para mais detalhes.*
