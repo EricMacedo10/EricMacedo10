@@ -8,16 +8,21 @@ Bem-vindo ao meu perfil do GitHub!
 
 ![Imagem de um Computador](./content_whisk.jpeg)
 
-Eu sou um assessor financeiro e desenvolvedor apaixonado por tecnologia e investimentos.
+Sou assessor de investimentos e desenvolvedor com foco em tecnologia, automação e soluções aplicadas ao mercado financeiro.
+Atuo na interseção entre investimentos e software, desenvolvendo ferramentas que aumentam eficiência, organização e tomada de decisão.
 
 ## Sobre mim
-- 💼 Sou sócio na empresa **SGA Investimentos**. 💵
-- 📈 Especialista em assessoria de investimentos. 💰
-- 🌐 Visite o site da empresa: [SGA Investimentos](https://www.instagram.com/sga_invest/). 📊
+- Sou sócio na empresa SGA Investimentos.
+- Especialista em assessoria de investimentos e alocação estratégica.
+- Desenvolvimento de soluções automatizadas e sistemas de apoio à análise financeira.
 
 ## Projetos Destacados
-- 🏎️ **[iRacing Paint Manager](https://github.com/EricMacedo10/iracing-trading-paints-cleaner)**: Automação em PowerShell para limpeza e gerenciamento de arquivos de pintura do iRacing.
-- 🗓️ **[Agendador Andreia](https://github.com/EricMacedo10/agendador-andreia)**: Projeto criado 100% com ajuda da inteligência artificial.
 
----
-*Confira meu CV anexado neste repositório para mais detalhes.*
+- • iRacing Paint Manager  
+  Automação desenvolvida em PowerShell para organização, limpeza e gerenciamento de arquivos de pintura do iRacing, reduzindo trabalho manual e erros operacionais.
+  
+- • Agendador Andreia  
+  Aplicação desenvolvida com apoio de inteligência artificial, focada em automação de agendamentos e organização de processos.
+
+- Confira meu currículo disponível neste repositório para mais detalhes sobre experiência profissional e projetos.
+
