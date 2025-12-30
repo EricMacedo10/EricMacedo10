@@ -9,6 +9,7 @@ Bem-vindo ao meu perfil do GitHub!
 ![Imagem de um Computador](./content_whisk.jpeg)
 
 Sou assessor de investimentos e desenvolvedor com foco em tecnologia, automação e soluções aplicadas ao mercado financeiro.
+
 Atuo na interseção entre investimentos e software, desenvolvendo ferramentas que aumentam eficiência, organização e tomada de decisão.
 
 ## Sobre mim
